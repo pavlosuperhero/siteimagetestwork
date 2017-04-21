@@ -1,0 +1,8 @@
+body{
+    background-color: #f7f7f7;
+}
+.form-inline{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
